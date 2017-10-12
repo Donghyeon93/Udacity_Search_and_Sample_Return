@@ -8,4 +8,6 @@ Perspective transform from rover camera image to top view has been processed bot
 
 At the end of video rover has mapped 43% of entire world map, which meets the requirement of 40%. Also around 70% of fidelity meets requirement of 60%. Also rover has discovered 3 rock samples which is marked as white.
 
+Detailed function explaination is at /Udacity_Search_and_Sample_Return/Notebook Analysis/README.md
+
 ![result](https://user-images.githubusercontent.com/32352399/31475601-b82339ca-af3c-11e7-9ad6-1aeca060e552.png)
